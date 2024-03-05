@@ -1,0 +1,14 @@
+{
+  "types": [
+    { "type": "feat", "section": "Features" },
+    { "type": "fix", "section": "Bug Fixes" },
+    { "type": "chore", "hidden": true },
+    { "type": "docs", "hidden": true },
+    { "type": "style", "hidden": true },
+    { "type": "refactor", "section": "Refactor" },
+    { "type": "perf", "hidden": true },
+    { "type": "test", "section": "Test Cases" }
+  ],
+  "commitUrlFormat": "https://github.com/mubin-ct/honeycomb-api-v2/commits/{{hash}}",
+  "compareUrlFormat": "https://github.com/mubin-ct/honeycomb-api-v2/compare/{{previousTag}}...{{currentTag}}"
+}
